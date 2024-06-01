@@ -1,0 +1,108 @@
+@media(max-width: 768px){
+    .image-label{
+        height: 65%;
+    }
+
+    .first-text-container{
+        .slide-one-big-text{
+            font-size: 30px;
+            margin-bottom: 20px;
+        }
+
+        .slide-one-small-text{
+            margin-bottom: 20px;
+        }
+    }
+
+    .company-labels img{
+        height: 20px;
+        width: 50px;
+    }
+
+    #cards{
+        display: none;
+    }
+
+    .text-container{
+        width: 80%;
+        margin-inline: 30px;
+    }
+
+    .percent-table{
+        font-size: 30%;
+    }
+
+    .col h2{
+        font-size: 16px;
+    }
+
+    .col h3{
+        font-size: 20px;
+    }
+
+    #slide-three-lbl img{
+        padding: 0;
+        height: 50px;
+        width: 100px;
+    }
+
+    .slide-four{
+        width: 100%;
+    }
+
+    .card-section{
+        width: 100%;
+        height: 50%;
+    }
+
+    .image-card{
+        width: 50%;
+        img{
+            height: 300px;
+        }
+    }
+
+    .text-card{
+        width: 100%;
+        height: 1%;
+        padding-top: 0;
+        h1{
+            font-size: 30px;
+        }
+
+        ul{
+            padding: 0;
+        }
+    }
+
+    .join{
+        padding: 0;
+        .text-container{
+            h1{
+            font-size: 40px;
+            }
+            h4{
+                font-size: 16px;
+            }
+        }
+    
+    }
+
+    .footer{
+        #footer-col-logo{
+            width: 30%;
+        }
+        #footer-col-logo img{
+            width: 100px;
+        }
+
+        #footer-row{
+            margin: 0;
+        }
+
+        #footer-col h3{
+            font-size: 24px;
+            width: auto;
+        }
+    }
+}

@@ -1,0 +1,110 @@
+@media(max-width: 426px){
+
+    .header-container{
+        display: none;
+    }
+
+    .image-label{
+        height: 100%;
+        width: 100%;
+        left: 0;
+        opacity: .2;
+    }
+
+    .first-text-container{
+        width: 100%;
+        position: static;
+
+        .slide-one-big-text{
+            width: 80%;
+            font-size: 55px;
+            padding-top: 20px;
+            margin-left: 40px;
+        }
+
+        .slide-one-small-text{
+            width: 80%;
+            margin-left: 40px;
+        }
+
+        .slide-one-buttons{
+            position: static;
+        }
+    }
+
+    .slide-two{
+        .company-labels{
+            width: 100%;
+        }
+    }
+
+    .company-labels img{
+        margin-top: 10px;
+        padding: 0;
+        height: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+
+    .percent-table{
+        width: 100%;
+        margin: 1px;
+    }
+    .col{
+        .percent-banner{
+            font-size: 20px
+        }
+        h3{
+            font-size: 12px;
+        }
+    }
+
+    #slide-three-lbl img{
+        height: 50px;
+        width: 100px;
+    }
+
+    .card-section{
+        .text-card{
+            width: 100%;
+            position: relative;
+            z-index: 2;
+        }
+        .image-card{
+            position: absolute;
+            left: 70px;
+            z-index: 1;
+
+            img{
+                width: 150%;
+                height: 100%;
+                opacity: .5;
+            }
+        }
+    }
+
+    .join{
+        .text-container{
+            h1{
+                font-size: 24px;
+            }
+
+            h4{
+                font-size: 14px;
+            }
+        }
+
+        .buttons-container{
+            div{
+                a{
+                    font-size: 14px;
+                    padding: 20px;
+                }
+            }
+        }
+    }
+
+    #footer-col-logo{
+        display: none;
+    }
+}
