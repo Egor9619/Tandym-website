@@ -17,7 +17,7 @@
 
         .slide-one-big-text{
             width: 80%;
-            font-size: 25px;
+            font-size: 40px;
             padding-top: 20px;
             margin-left: 40px;
         }
@@ -29,7 +29,7 @@
 
         .slide-one-buttons{
             position: static;
-
+            
             a{
                 margin-left: 40px;
             }
@@ -65,7 +65,7 @@
 
     #slide-three-lbl img{
         height: 50px;
-        width: 100px;
+        width: 90px;
     }
 
     .card-section{
@@ -110,5 +110,11 @@
 
     #footer-col-logo{
         display: none;
+    }
+}
+
+@media(max-width: 376px){
+    #footer-col{
+        padding: 0;
     }
 }
