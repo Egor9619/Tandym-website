@@ -108,13 +108,13 @@
         }
     }
 
+      #footer-col{
+        padding: 0;
+
+        
+    }
+
     #footer-col-logo{
         display: none;
-    }
-}
-
-@media(max-width: 376px){
-    #footer-col{
-        padding: 0;
     }
 }
