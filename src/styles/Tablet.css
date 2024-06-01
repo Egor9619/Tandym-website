@@ -5,12 +5,12 @@
 
     .first-text-container{
         .slide-one-big-text{
-            font-size: 30px;
+            font-size: 20px;
             margin-bottom: 20px;
         }
 
         .slide-one-small-text{
-            margin-bottom: 20px;
+            margin-bottom: 16px;
         }
     }
 
